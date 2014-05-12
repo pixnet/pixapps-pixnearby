@@ -1,5 +1,8 @@
 # 逛逛附近
-http://appmarket.pixnet.tw/#/addon/262
+- http://appmarket.pixnet.tw/#/addon/262
+- copyright: Copyright 2003-2014 PIXNET Digital Media Corporation 優像數位媒體科技股份有限公司
+- license: http://framework.pixnet.net/license BSD License
+- author: Repeat Yang `<repeat _at_ pixnet _dot_ tw>`
 
 ## 應用程式資訊
 - http://developer.pixnet.pro/#!/addon/edit/262
