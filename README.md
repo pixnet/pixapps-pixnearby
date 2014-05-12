@@ -6,3 +6,7 @@ http://appmarket.pixnet.tw/#/addon/262
 - Staging Option Config: `option_config.json`
 - Staging Execute Code: `execute_code.js.tmpl`
 - Staging Script: `script.js`
+
+## 應用程式資訊
+- http://developer.pixnet.pro/#!/addon/edit/262
+- `info.md`
