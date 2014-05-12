@@ -27,6 +27,7 @@
 ## 編輯圖片
 - http://developer.pixnet.pro/#!/addon/image/edit/262
 - 步驟：
+
 ### 步驟1
 安裝完成後，至後台>基本/進階設定>相簿App 找到此 App 的圖示，點圖示進入設定頁。
 
