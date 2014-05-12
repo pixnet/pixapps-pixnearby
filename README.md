@@ -22,11 +22,10 @@
 ```
 
 ## 應用程式資訊
-- http://developer.pixnet.pro/#!/addon/edit/262
+http://developer.pixnet.pro/#!/addon/edit/262
 
 ## 編輯圖片
-- http://developer.pixnet.pro/#!/addon/image/edit/262
-- 步驟：
+http://developer.pixnet.pro/#!/addon/image/edit/262
 
 ### 步驟1
 安裝完成後，至後台>基本/進階設定>相簿App 找到此 App 的圖示，點圖示進入設定頁。
