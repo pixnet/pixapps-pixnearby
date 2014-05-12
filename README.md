@@ -5,6 +5,10 @@ http://appmarket.pixnet.tw/#/addon/262
 - http://developer.pixnet.pro/#!/addon/edit/262
 - `info.md`
 
+## 編輯圖片
+- http://developer.pixnet.pro/#!/addon/image/edit/262
+- 步驟： `steps.md`
+
 ## 編輯設定
 - URL: http://developer.pixnet.pro/#!/addon/setting/edit/262
 - Staging Option Config: `option_config.json`
