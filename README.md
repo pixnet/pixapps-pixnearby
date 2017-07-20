@@ -22,10 +22,10 @@
 ```
 
 ## 應用程式資訊
-http://developer.pixnet.pro/#!/addon/edit/262
+https://developer.pixnet.pro/#!/addon/edit/262
 
 ## 編輯圖片
-http://developer.pixnet.pro/#!/addon/image/edit/262
+https://developer.pixnet.pro/#!/addon/image/edit/262
 
 ### 步驟1
 安裝完成後，至後台>基本/進階設定>相簿App 找到此 App 的圖示，點圖示進入設定頁。
@@ -34,7 +34,7 @@ http://developer.pixnet.pro/#!/addon/image/edit/262
 設定要顯示的相簿及相片範圍，完成後按送出。例如說相簿設定在經緯度坐標 (23.973875, 120.982024) ，距離設定為 0 公尺～ 5 公里時，系統就會去找該坐標點附近 0 - 5 公里間的其他公開相簿及相片。
 
 ## 編輯設定
-- http://developer.pixnet.pro/#!/addon/setting/edit/262
+- https://developer.pixnet.pro/#!/addon/setting/edit/262
 - Staging Option Config: `option_config.json`
 - Staging Execute Code: `execute_code.js.tmpl`
 - Staging Script: `script.js`
