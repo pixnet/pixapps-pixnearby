@@ -3,6 +3,7 @@
 - copyright: Copyright 2003-2014 PIXNET Digital Media Corporation 優像數位媒體科技股份有限公司
 - license: http://framework.pixnet.net/license BSD License
 - author: Repeat Yang `<repeat _at_ pixnet _dot_ tw>`
+- This application is not maintained since January 24, 2018.
 
 ## 名稱
 逛逛附近
